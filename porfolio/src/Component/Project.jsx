@@ -14,7 +14,40 @@ return (
 application modules.  
  Used React for frontend, Node.js and Express for backend APIs, and PostgreSQL for data handling. 
  Implemented JWT authentication and respon- sive design. </p>
-            <a href="#!" className="btn btn-outline-primary btn-sm">GitHub</a>
+  <div style={{
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  gap: '10px',
+  flexWrap: 'wrap',
+  margin: '20px 0',
+}}>
+  <a href="https://pern-recipe-app.vercel.app/" target="_blank"
+    
+    style={{
+      display: 'inline-block',
+      backgroundColor: '#007bff',
+      color: 'white',
+      borderRadius: '20px',
+      padding: '8px 15px',
+      margin: '5px',
+      textDecoration: 'none',
+    }}
+  > 🔗 View
+  </a>
+  <a href="https://github.com/Daulesuyog/PERN-recipe_app" target="_blank"
+    style={{
+      display: 'inline-block',
+      backgroundColor: '#28a745',
+      color: 'white',
+      borderRadius: '20px',
+      padding: '8px 15px',
+      margin: '5px',
+      textDecoration: 'none',
+    }}>
+    🐙 GitHub
+  </a>
+</div>
           </div>
           <div className="project-card p-3">
             <h5>Recipe-App</h5>
