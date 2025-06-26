@@ -25,7 +25,7 @@ and styled UI using Bootstrap.
         <div  style={{ display: 'flex',
            justifyContent: 'space-between',
             alignItems: 'center', 
-            gap: '10px', 
+            gap: '2px', 
             marginTop: '10px',
              marginBottom: '10px',
               }}> 
