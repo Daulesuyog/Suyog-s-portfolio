@@ -1,5 +1,6 @@
 import React from 'react';
-import '../styles/Projects.css';
+import '../Styles/Projects.css';
+
 function Projects  () {
 return (
   <section className="projects-section py-5" id="projects">
