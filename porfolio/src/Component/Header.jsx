@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Hero  ()  {
   return (
     <section
@@ -11,7 +12,7 @@ function Hero  ()  {
       }}
     >
       <img
-        src="../../public/Suyog.jpg"
+        src="/Suyog.jpg"
         alt="Suyog Daule"
         style={{
           width: '250px',

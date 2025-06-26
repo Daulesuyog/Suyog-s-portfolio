@@ -5,12 +5,12 @@ const Achievements = () => {
     {
         name:"Full Stack Web Develpment ",
         provider:"Udemy",
-        link:"../../public/certifications/suyog full web.pdf"
+        link:"/certifications/suyog full web.pdf"
     },
     {
         name:"Scrum Master",
         provider:"Udemy",
-        link:"../../public/certifications/Suyog Raosaheb Daule - Scrum Master Certification - Certificate-2.pdf"
+        link:"/certifications/Suyog Raosaheb Daule - Scrum Master Certification - Certificate-2.pdf"
     },
   ];
   return (
