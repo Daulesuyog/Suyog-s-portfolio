@@ -22,7 +22,7 @@ application modules.
  Built with React, Node.js, Express, and PostgreSQL. Features include secure login, CRUD operations, protected routes, 
 and styled UI using Bootstrap. 
  Focused on clean UX and performance optimization.</p>
-        <div  style={{ display: 'flex',
+        <div  style={{ display: 'inline-block',
             justifyContent: 'center',
             alignItems: 'center', 
             gap: '2px',
