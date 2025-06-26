@@ -22,9 +22,15 @@ application modules.
  Built with React, Node.js, Express, and PostgreSQL. Features include secure login, CRUD operations, protected routes, 
 and styled UI using Bootstrap. 
  Focused on clean UX and performance optimization.</p>
-        <div  style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '10px', marginTop: '10px', marginBottom: '10px', }}> 
+        <div  style={{ display: 'flex',
+           justifyContent: 'space-between',
+            alignItems: 'center', 
+            gap: '10px', 
+            marginTop: '10px',
+             marginBottom: '10px',
+              }}> 
             <a href="https://pern-recipe-app.vercel.app/" className="btn btn-outline-primary btn-sm">View</a>
-            <a href="https://github.com/suyog123/pern-recipe-app" className="btn btn-outline-primary btn-sm">GitHub</a>
+            <a href="https://github.com/Daulesuyog/PERN-recipe_app" className="btn btn-outline-primary btn-sm">GitHub</a>
             </div>
           </div>
         </div>
