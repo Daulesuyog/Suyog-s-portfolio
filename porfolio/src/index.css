@@ -1,0 +1,6 @@
+html{
+  background-image: linear-gradient(to bottom right, #f0f8ff, #e6f7ff);
+  background: #f0f8ff;
+  min-height: 100vh;
+  color: #000;
+}
