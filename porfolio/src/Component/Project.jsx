@@ -23,6 +23,7 @@ application modules.
 and styled UI using Bootstrap. 
  Focused on clean UX and performance optimization.</p>
         <div  style={{ display: 'flex',
+        justifyContent: 'center',
             alignItems: 'center', 
             gap: '2px', 
               }}> 
