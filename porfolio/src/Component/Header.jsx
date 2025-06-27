@@ -32,7 +32,7 @@ function Hero  ()  {
           Suyog Raosaheb Daule
         </span>
       </h1>
-      <p className="lead">A passionate Full Stack Web Developer</p>
+      <p className="lead">A good Full Stack Web Developer</p>
     <div
   className="d-flex flex-wrap justify-content-center"
   style={{
