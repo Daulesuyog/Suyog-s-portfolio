@@ -33,14 +33,21 @@ function Hero  ()  {
         </span>
       </h1>
       <p className="lead">A passionate Full Stack Web Developer</p>
-    <div className="mt-3">
-      <a href="#about" className="btn btn-primary me-2">About me</a>
-      <a href="#projects" className="btn btn-primary me-2">Projects</a>
-      <a href="#education" className="btn btn-primary me-2">Education</a>
-      <a href="#internship" className="btn btn-primary me-2">Internship</a>
-      <a href="#achievements" className="btn btn-primary me-2">Achievements</a>
-      <a href="#contact" className="btn btn-primary me-2">Contact</a>
-    </div>
+    <div
+  className="d-flex flex-wrap justify-content-center"
+  style={{
+    gap: '10px',
+    marginTop: '15px',
+    marginBottom: '15px'
+  }}>
+  <a href="#about" className="btn btn-primary">About me</a>
+  <a href="#projects" className="btn btn-primary">Projects</a>
+  <a href="#education" className="btn btn-primary">Education</a>
+  <a href="#internship" className="btn btn-primary">Internship</a>
+  <a href="#achievements" className="btn btn-primary">Achievements</a>
+  <a href="#contact" className="btn btn-primary">Contact</a>
+</div>
+
     </section>
   );
 };
