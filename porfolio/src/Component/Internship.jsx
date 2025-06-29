@@ -8,8 +8,8 @@ const Internship = () => {
       role: "Full Stack Web Development Intern",
       duration: "janauary-febuary 2025",
       description: "Built full stack features, responsive components and Projects.",
-      link: "../../public/certifications/Suyog Raosaheb Daule_offer_letter.pdf",
-      certificate:"../../public/certifications/Suyog Raosaheb Daule_Certificate.pdf"
+      link: "/certifications/Suyog Raosaheb Daule_offer_letter.pdf",
+      certificate:"/certifications/Suyog Raosaheb Daule_Certificate.pdf"
     },
   ];
   return (
