@@ -41,6 +41,7 @@ function Hero  ()  {
     marginBottom: '15px'
   }}>
   <a href="#about" className="btn btn-primary">About me</a>
+  <a href="#skills" className='btn btn-primary'>Skills</a>
   <a href="#projects" className="btn btn-primary">Projects</a>
   <a href="#education" className="btn btn-primary">Education</a>
   <a href="#internship" className="btn btn-primary">Internship</a>

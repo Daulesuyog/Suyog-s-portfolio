@@ -22,7 +22,7 @@ application modules.
   flexWrap: 'wrap',
   margin: '20px 0',
 }}>
-  <a href="https://pern-recipe-app.vercel.app/" target="_blank"
+  <a href="https://agro-connect-mitr.vercel.app/" target="_blank"
     
     style={{
       display: 'inline-block',
@@ -35,7 +35,7 @@ application modules.
     }}
   > 🔗 View
   </a>
-  <a href="https://github.com/Daulesuyog/PERN-recipe_app" target="_blank"
+  <a href="https://github.com/Daulesuyog/AgroConnectMitr" target="_blank"
     style={{
       display: 'inline-block',
       backgroundColor: '#28a745',
